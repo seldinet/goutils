@@ -10,6 +10,7 @@ import (
 	"time"
 
 	"github.com/Shopify/sarama"
+	"github.com/labstack/echo/v4"
 	"github.com/seldinet/goutils/kafka"
 )
 

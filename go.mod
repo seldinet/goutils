@@ -12,6 +12,5 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.10.1
 	github.com/stretchr/testify v1.7.0
-	xorm.io/core v0.7.3
 	xorm.io/xorm v1.2.5
 )

@@ -9,6 +9,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/labstack/echo/v4"
 	"github.com/seldinet/goutils/ctxbase"
 	"github.com/seldinet/goutils/kafka"
 	"github.com/sirupsen/logrus"
