@@ -3,8 +3,8 @@ package number_test
 import (
 	"testing"
 
-	"github.com/devarchi33/goutils/number"
-	"github.com/devarchi33/goutils/test"
+	"github.com/seldinet/goutils/number"
+	"github.com/seldinet/goutils/test"
 )
 
 func TestCeiling(t *testing.T) {

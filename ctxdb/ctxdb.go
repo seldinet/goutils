@@ -4,9 +4,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/devarchi33/goutils/behaviorlog"
-	"github.com/devarchi33/goutils/ctxbase"
-	"github.com/devarchi33/goutils/kafka"
+	"github.com/seldinet/goutils/behaviorlog"
+	"github.com/seldinet/goutils/ctxbase"
+	"github.com/seldinet/goutils/kafka"
 
 	"xorm.io/xorm"
 	"xorm.io/xorm/log"

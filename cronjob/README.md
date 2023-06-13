@@ -1,7 +1,7 @@
 # goutils/cronjob
 
 ```go
-import github.com/devarchi33/goutils/cronjob
+import github.com/seldinet/goutils/cronjob
 ```
 
 ## Getting Started

@@ -9,8 +9,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/devarchi33/goutils/kafka"
-	"github.com/devarchi33/goutils/test"
+	"github.com/seldinet/goutils/kafka"
+	"github.com/seldinet/goutils/test"
 
 	"github.com/Shopify/sarama"
 )

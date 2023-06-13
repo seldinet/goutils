@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/devarchi33/goutils/test"
+	"github.com/seldinet/goutils/test"
 )
 
 func TestXXX(t *testing.T) {

@@ -5,9 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/devarchi33/goutils/ctxdb"
-	"github.com/devarchi33/goutils/kafka"
-	"github.com/labstack/echo/v4"
+	"github.com/seldinet/goutils/ctxdb"
+	"github.com/seldinet/goutils/kafka"
 	"xorm.io/xorm"
 )
 

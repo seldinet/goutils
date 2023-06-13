@@ -1,6 +1,6 @@
 package echomiddleware
 
-import "github.com/devarchi33/goutils/kafka"
+import "github.com/seldinet/goutils/kafka"
 
 type KafkaConfig = kafka.Config
 

@@ -12,9 +12,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/devarchi33/goutils/behaviorlog"
-	"github.com/devarchi33/goutils/kafka"
-	"github.com/labstack/echo/v4"
+	"github.com/seldinet/goutils/behaviorlog"
+	"github.com/seldinet/goutils/kafka"
 	"github.com/sirupsen/logrus"
 )
 

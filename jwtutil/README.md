@@ -15,7 +15,7 @@ Generate JWT token
 ```golang
 token, err := jwtutil.NewToken(map[string]string{
         "iss":      "account",
-        "aud":      "devarchi33",
+        "aud":      "seldinet",
         "username": "jack",
         "tenant":   "github",
 })
@@ -25,7 +25,7 @@ Generate JWT token with secret
 ```golang
 token, err := jwtutil.NewTokenWithSecret(map[string]string{
         "iss":      "account",
-        "aud":      "devarchi33",
+        "aud":      "seldinet",
         "username": "jack",
         "tenant":   "github",
 }, myJwtSecret)

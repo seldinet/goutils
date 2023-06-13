@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/devarchi33/goutils/config"
-	"github.com/devarchi33/goutils/test"
+	"github.com/seldinet/goutils/config"
+	"github.com/seldinet/goutils/test"
 )
 
 var (

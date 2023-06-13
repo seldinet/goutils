@@ -1,4 +1,4 @@
-module github.com/devarchi33/goutils
+module github.com/seldinet/goutils
 
 go 1.16
 

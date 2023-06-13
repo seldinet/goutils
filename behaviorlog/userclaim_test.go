@@ -3,7 +3,7 @@ package behaviorlog
 import (
 	"testing"
 
-	"github.com/devarchi33/goutils/test"
+	"github.com/seldinet/goutils/test"
 )
 
 func TestUserClaim(t *testing.T) {

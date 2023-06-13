@@ -9,7 +9,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/devarchi33/goutils/number"
+	"github.com/seldinet/goutils/number"
 )
 
 func main() {
